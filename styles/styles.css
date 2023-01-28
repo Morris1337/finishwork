@@ -1,0 +1,1543 @@
+@media screen and (max-width: 375px){
+    
+    .here{
+        display: block!important;
+    }
+
+    .container{
+        max-width: 375px!important;
+    }
+
+    body{
+        max-width: 375px!important;
+        margin: 0;
+    }
+
+    .logo{
+        margin: 0!important;
+    }
+
+    .p-1{
+        width: 313px!important;
+        line-height: 26px!important;
+        font-size: 14px!important;
+    }
+
+    .menu{
+        display: none!important;
+    }
+
+    h2{
+        font-size: 22px!important;
+        line-height: 30px!important;
+    }
+
+    .menu_1{
+        width: 375px!important;
+        padding: 0px 10px;
+        margin: 0px;
+    }
+
+    .number.media{
+        margin-right: -20px;
+    }
+
+    .hero{
+        width: 375px!important;
+        height: 476px!important;
+    }
+
+    .hero-container{
+        left: 28px!important;
+        top: 90px!important;
+        width: 375px!important;
+    }
+
+    .title{
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px!important;
+        line-height: 132.83%!important;
+        text-transform: uppercase;
+        width: 339px!important;
+
+    }
+
+    .hero-2{
+        width: 375px!important;
+    }
+
+    .div_button{
+        display: flex;
+        flex-direction: column;
+        align-content: stretch;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: nowrap;
+        margin-left: -53px!important;
+    }
+
+    .button_h1{
+        margin-top: 20px!important;
+        width: 320px!important;
+    }
+
+    .button_h1_2{
+        margin-top: 10px!important;
+        width: 320px!important;
+    }
+
+    .nav_class{
+        margin-top: 0!important;
+        margin-left: -533px!important;
+    }
+
+    .divphoto{
+        position: relative;
+        left: 917px;
+    }
+
+    .photo_change{
+        z-index: 1!important;
+        margin-left: -255px;
+        margin-top: -62px;
+    }
+
+    .photo_phone{
+        display: inline!important;
+        margin-top: -60px;
+        margin-left: -257px;
+    }
+
+    .boss{
+        display: flex!important;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 57px;
+        padding-top: 0;
+        text-align: center;
+        margin-left: 810px!important;
+    }
+
+    .p-2{
+        width: 315px!important;
+        height: 0!important;
+        margin-left: 185px;
+        text-align: center;
+        line-height: 17px!important;
+        font-size: 11px!important;
+    }
+
+    .grid{
+        position: relative;
+        left: 660px;
+        top: 376px;
+        max-width: 348px!important;
+        grid-template-columns: repeat(auto-fit, minmax(168px, 2fr))!important;
+        margin-left: 0!important;
+    }
+
+    .h3-2{
+        top: -20px!important;
+    }
+
+    .vector{
+        margin-top: -36px!important;
+    }
+
+    .deff{
+        width: 340px;
+        height: 207px;
+        margin-left: -10px!important;
+    }
+
+    .deff2{
+        width: 350px;
+        height: 210px;
+        margin-top: 226px;
+        margin-left: -25px;
+    }
+
+    .video_play{
+        width: 53px;
+        height: 68px;
+        margin-top: -143px!important;
+        margin-left: 165px;
+    }
+
+    .hero-3{
+        width: 375px!important;
+        height: 902px!important;
+        background-color: #000;
+    }
+
+    .line_front{
+        margin-top: 99px!important;
+        margin-left: -161px!important;
+    }
+
+    .p-4{
+        color: white!important;
+        left: 20px!important;
+        width: 338px!important;
+        font-size: 11px!important;
+        top: 10px!important;
+    }
+    
+    .buttonleft{
+        position: relative;
+        z-index: 1;
+        display: inline!important;
+        top: -99px;
+        left: -332px;
+    }
+
+    .buttonright{
+        position: relative;
+        z-index: 1;
+        display: inline!important;
+        top: -99px;
+        left: -95px;
+    }
+
+    .input{
+        display: flex;
+        flex-direction: column;
+        top: 158px!important;
+        color: white;
+        left: -47px!important;
+    }
+
+    .l1{
+        margin-top: -65px!important;        
+    }
+
+    .l2{
+        margin-top: 80px!important;
+    }
+
+    .button_3{
+        margin-top: 90px!important;
+        padding: 16px 136px!important;
+        margin-left: 15px!important;
+    }
+
+    .checkbox{
+        color: white!important;
+        font-size: 14px!important;
+        right: 104px!important;
+        transform: none!important;
+        bottom: -48px!important;
+
+    }
+
+    .input_phone{
+        border-bottom: 1px solid rgb(255, 255, 255)!important;
+        width: 324px!important;
+    }
+
+    .h3_3{
+        margin-left: 105px!important;
+        top: -25px;
+    }
+
+    .vector_2{
+        margin-left: 150px!important;
+        margin-top: 35px!important;
+    }
+
+    .hero_4{
+        display: block!important;
+        height: 2230px!important;
+        top: -675px!important;
+        width: 375px!important;
+        left: -20px;
+    }
+
+    .box_1{
+        margin-top: 100px!important;
+    }
+
+    .box_2{
+        margin-top: 10px!important;
+    }
+
+    .box_3{
+        margin-top: 10px!important;
+    }
+
+    .design{
+        flex-direction: column;
+        margin-left: 18px!important;
+    }
+
+    .boxphoto{
+        width: 340px;
+    }
+
+    .boxinbox_1{
+        width: 270px!important;
+        margin-left: 0!important;
+        left: -1px;
+    }
+
+    .boxinbox_2{
+        width: 270px!important;         
+        margin-left: 0!important;
+        left: -1px;
+    }
+
+    .boxinbox_3{
+        width: 270px!important;
+        margin-left: 0!important;
+        left: -1px;
+    }
+
+    .button_4{
+        padding: 10px 22px!important;
+        font-size: 15px!important;
+        margin-left: 0!important;
+    }
+
+    .hero_6{
+        top: -1035px!important;
+        height: 1369px!important;
+        left: 0!important;
+    }
+
+    .h2{
+        font-size: 22px!important;
+        text-align: center!important;
+        left: -60px;
+        top: 30px;
+    }
+
+    .photo5{
+        display: block!important;
+        position: relative;
+        margin-top: 260px;
+        margin-left: 0px;
+        z-index: 2;
+    }
+
+    .buttonleft.h1{
+        z-index: 4;
+        top: -145px;
+        left: 15px;
+    }
+
+    .buttonright.h{
+        z-index: 4;
+        top: -145px;
+        left: 246px;
+    }
+
+    .label_form.r{
+        margin-left: 48px!important;
+        margin-top: 0!important;
+    }
+
+    .label_form_1{
+        display: block!important;
+    }
+
+    .form_2{
+        width: 375px!important;
+        left: 0px!important;
+        height: 736px!important;
+        top: -1415px!important;
+    }
+    
+    .p_form_2{
+        margin-left: 43px!important;
+        font-size: 20px!important;
+        line-height: 28px!important;
+        text-align: center!important;
+        padding-top: 160px!important;
+    }
+
+    .u1{
+        margin-top: 80px!important;
+        margin-left: -29px!important;
+    }
+
+    .last_section{
+        width: 375px!important;
+        top: -1115px;
+        height: 500px!important;
+    }
+
+    .background_photo{
+        background: black!important;
+    }
+
+    .checkbox_form{
+        width: 375px!important;
+        font-size: 14px;
+        margin-left: 80px!important;
+        margin-top: -12px!important;
+    }
+
+    .button_5{
+        width: 340px!important;
+        height: 51px!important;
+        margin-top: 20px!important;
+        
+    }
+
+    .map_p{
+        position: relative;
+        width: 340px!important;
+        height: 255px!important;
+        margin-left: -318px;
+        top: 577px;
+    }
+
+    .icon_h{
+        top: 1002px;
+    }
+    
+    .last_h{
+        width: 274px!important;
+        top: 1000px!important;
+        font-size: 18px!important;
+        margin-left: 0px!important;
+    }
+
+    .icon_size_last{
+        width: 40px;
+    }
+
+}
+
+
+
+@media screen , (min-width: 1438px) and (max-width: 9999px){
+    body{
+    margin: 0;
+    font-family: Nunito Sans, Arial;
+    margin: 0 auto;
+    }
+
+    body * {
+        box-sizing: border-box;
+        max-width: 9999px;
+    }
+
+    .eye{
+        display: none;
+    }
+
+    .button{
+    background: #E3B873;
+    font-family: "Nunito Sans";
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+    border-radius: 5px;
+    font-size: 11px;
+    line-height: 15px;
+    padding: 12px 30px;
+    color: white;
+    width: 200px;
+    }
+
+    .container{
+        max-width: 1438px;
+        margin: 0 auto;
+    }
+
+    .header-content{
+        display: flex;
+        justify-content: space-between;
+        height: 83px;
+        align-items: center;
+        left: 1px;
+    }
+
+    header{
+        background-color: black;
+        padding: 0 91px;
+        margin: 0 auto;
+        font-size: 11px;
+        line-height: 15px;
+    }
+
+    .logo{
+        font-family: "Nunito Sans";
+        color: #E3B873;
+        width: 142px;
+        margin: 0 -15px;
+    }
+
+    .number{
+        font-family: 'Nunito Sans';
+        padding-left: 0;
+        margin-top: 30px;
+        font-size: 11px;
+        line-height: 15px;
+        margin-bottom: 30px;
+        text-decoration-line: underline;
+        width: 126px;
+        margin-right: 45px;
+        color: #E3B873;
+    }
+
+    .header-navigation{
+    display: flex;
+    list-style: none;
+    margin-left: 90px;
+    margin-right: 64px;
+    }
+
+    .header-navigation-item{
+        margin: 0px 47px 0px 0px;
+    }
+
+    .header-navigation-item a{
+        text-decoration: none;
+        color: white;
+    }
+
+    .hero{
+        background-image: url("../images/image1.jpg");
+        background-size: cover;
+        height: 707px;
+        padding-top: 194px;
+        position: relative;
+    }
+
+    .hero-overlay{
+        max-width: 9999px;
+        height: 707px;
+        margin-top: -194px;
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+    .hero-container{
+        position: relative;
+        z-index: 1;
+    }
+
+    .title{
+        margin: 0;
+        color: white;
+        font-family: "Yeseva One";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 53px;
+        text-transform: uppercase;
+        width: 676px;
+    }
+
+    .block_1{
+        height: 305px;
+        left: -229px;
+        top: 180px;
+        display: grid;
+        justify-content: center;
+    }
+
+    .p-1{
+        width: 508px;
+        height: 89px;
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        line-height: 36px;
+        font-size: 22px;
+        font-weight: 400;
+        color: #FFFFFF;
+    }
+
+    .div_button{
+        margin: 45px 0px;
+    }
+
+    .button_h1_2{
+        background: #E3B873;
+        font-family: "Nunito Sans";
+        box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+        border-radius: 2px;
+        font-size: 11px;
+        line-height: 15px;
+        color: white;
+        width: 207px;
+        height: 51px;
+    }
+
+    .button_h1{
+        margin: 0px 15px;
+        background: rgba(0, 0, 0, 0);
+        border: 1px solid #FFFFFF;
+        border-radius: 5px;
+        font-size: 11px;
+        line-height: 15px;
+        outline: 0;
+        color: white;
+        width: 207px;
+        height: 51px;
+    }
+
+    .hero-2{
+        background-color: black;
+        top: -119px;
+        height: 1074px;
+        position: relative;
+        background-size: cover;
+    }
+
+    .boss{
+        display: flex; 
+        justify-content: space-around;
+        flex-direction: column;
+        padding-top: 40px;
+        margin-left: 626px;
+    }
+
+    .grid{
+        display: inline-grid; 
+        grid-template-columns: repeat(auto-fit, minmax(100px, 2fr)); 
+        grid-template-rows: auto;
+        grid-row: auto;
+        grid-gap: 3vw;
+        max-width: 355px;
+        margin-left: 626px;
+    }
+
+    .photo_hero2{
+        margin-left: 1163px;
+        margin-top: -349px;
+    }
+
+    .photo_change{
+        position: relative;
+        z-index: -1;
+    }
+
+    .container_2{
+        margin-top: 117px;
+        margin-bottom: 25px;
+        margin-left: 57px;
+        margin-right: 379px;
+        display: grid;
+        justify-content: center;
+    }
+
+    .nav_class{
+        margin-top: 50px;
+        margin-left: -223px;
+    }
+
+    h2{
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 27px;
+        line-height: 37px;
+        letter-spacing: -0.07em;
+        text-transform: uppercase;
+        color: #E3B873;
+        padding-right: -60%;
+
+    }
+
+    .p-2{
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 27px;
+        color: #FFFFFF;
+        margin-right: 197px;
+        width: 442px;
+        height: 86px;
+    }
+
+    .image_front_1{
+        position: absolute;
+        left: 43.45%;
+        right: 9.26%;
+        top: 13%;
+        bottom: 74.09%;
+    }
+
+    .left {
+        border: solid white;
+        border-width: 0 1px 1px 0;
+        display: inline-block;
+        padding: 5px;
+        margin: 7px;
+        transform: rotate(135deg);
+    }
+
+    .right{
+        position: relative;
+        border: solid white;
+        border-width: 0 1px 1px 0;
+        display: inline-block;
+        padding: 5px;
+        margin: 7.5px;
+        margin-left: 22px;
+        transform: rotate(315deg);
+    }
+
+    .line{
+        position: relative;
+        margin-left: -20px;
+        margin-top: 12.5px;
+        width: 35px;
+        height: 1px;
+        background: white;
+    }
+
+    .line_2{
+        position: absolute;
+        margin-left: 147px;
+        margin-top: 12.5px;
+        width: 35px;
+        height: 1px;
+        background: white;
+    }
+
+    .slide_go{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-content: space-between;
+        align-items: flex-start;
+        margin-left: 620px;
+        margin-top: -30px;
+    }
+
+    .slide_conteiner{
+    margin: 8px;
+    }
+
+    .image_slide_link{
+        background-color: white;
+        display: block;
+        width: 10px;
+        height: 10px;
+        margin: 0 5px;
+        border-radius: 5px;
+
+    }
+
+    .image_slide_active{
+        background-color: white;
+        display: block;
+        width: 10px;
+        height: 10px;
+        margin: 0 5px;
+        border-radius: 5px;
+    }
+
+    .section_2_ul_style{
+        position: relative;
+        font-family: 'Yeseva One';
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+        color: white;
+        text-align: center;
+        margin-left: 1141px;
+        top: 80px;
+        left: -36px;
+    }
+
+    .section_2_li_style{
+        padding: 0;
+        margin: -70px;
+    }
+
+    .h3-1{
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 25px;
+        text-transform: uppercase;
+        color: #E3B873;
+        margin: 0px;
+    }
+
+    .p-3{
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 27px;
+        color: #FFFFFF;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .hero-3{
+        position: relative;
+        /* width: 1438px; */
+        height: 1000px;
+        top: -632px;
+    }
+
+    .container_3{
+        margin-top: 219px;
+        margin-bottom: 25px;
+    }
+
+    .h3-2{
+        position: relative;
+        color: white;
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+        text-transform: uppercase;
+        top: -35px;
+    }
+
+    .item{
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .vector{
+        position: absolute;
+        margin-top: -50px;
+    }
+
+    .hr{
+        margin-bottom: 10px;
+        margin-right: 6px;
+    }
+
+    .deff{
+        margin: 20px;
+        z-index: 1;
+    }
+
+    .video{
+        position: absolute;
+    }
+
+    .back_image{
+        display: flex;
+        justify-content: center;
+        position: relative;
+        margin-top: -454px;
+        filter: drop-shadow(0px 20px 50px rgba(0, 0, 0, 0.15));
+        right: -16px;
+        z-index: 2;
+    }
+
+    .image_front_2{
+        display: flex;
+        justify-content: center;
+        margin-left: 31px;
+    }
+
+    .video_play{
+        position: relative;
+        margin-top: -290px;
+        display: flex;
+        justify-content: center;
+        z-index: 3;
+    }
+
+    .nav_class_1{
+        display: grid;
+        justify-items: center;
+    }
+
+    .line_front{
+        display: flex;
+        justify-content: center;
+        margin-top: 170px;
+        margin-left: 44px;
+    }
+
+    .p-4{
+        position: relative;
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 27px;
+        color: black;
+        margin-right: 197px;
+        width: 507px;
+        height: 131px;
+        left: 19%;
+        top: 20%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .input{
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        right: -25px;
+        top: 40px;
+    }
+
+    .label_1{
+        margin: 0px 20px;
+        margin-right: 84px;
+    }
+
+    input{
+        border: 0;
+        border-bottom: 1px solid #000;
+        background-color: rgba(0,0,0,0);
+        outline: 0;
+        font-size: 14px;
+        line-height: 40px;
+    }
+
+    .button_3{
+        background: #E3B873;
+        font-family: "Nunito Sans";
+        box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+        font-size: 15px;
+        line-height: 15px;
+        padding: 16px 80px;
+        color: white;
+        border-color: #E3B873;
+        margin: 0px 30px;
+        margin-top: 13px;
+    }
+
+    .checkbox{
+        display: block;
+        position: relative;
+        transform:scale(1.3);
+        opacity:0.9;
+        cursor:pointer;
+        right: 0%;
+        bottom: -84px;
+    }
+
+    .hero_4{
+        position: relative;
+        display: block;
+        height: 1000px;
+        top: -742px;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+
+    }
+
+    .container_4{
+        margin-top: 117px;
+        margin-bottom: 25px;
+    }
+
+    .vector_2 {
+        position: absolute;
+        display: block;
+        justify-content: center;
+        margin-top: 70px;
+        margin-left: 650px;
+    }
+
+    .h3_3{
+        position: absolute;
+        color: black;
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
+        margin-left: 604px;
+    }
+
+    .design{
+        display: flex;
+        justify-content: space-between;
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+
+    .box_1{
+        margin-top: 180px;
+        padding: 0 20px;
+    }
+
+    .boxinbox_1{
+        position: relative;
+        background-color: white;
+        width: 350px;
+        height: 400px;
+        margin-top: -135px;
+        margin-left: 24px;
+    }
+
+    .box_2{
+        margin-top: 180px;
+        padding: 0 20px;
+    }
+
+    .boxinbox_2{
+        position: relative;
+        background-color: white;
+        width: 350px;
+        height: 400px;
+        margin-top: -135px;
+        margin-left: 24px;
+    }
+
+    .box_3{
+        margin-top: 180px;
+        padding: 0 20px;
+    }
+
+    .boxinbox_3{
+        position: relative;
+        background-color: white;
+        width: 350px;
+        height: 400px;
+        margin-top: -135px;
+        margin-left: 24px;
+    }
+
+    .h4{
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 25px;
+        color: #363636;
+        padding: 20px;
+        background-color: white;
+        margin: 0px;
+    }
+
+    .ul_text{
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 27px;
+        color: #959595;
+    }
+
+    .button_4{
+        background: #E3B873;
+        font-family: 'Yeseva One';
+        font-size: 18px;
+        line-height: 25px;
+        padding: 10px 40px;
+        color: white;
+        border-color: #E3B873;
+        margin: 10px -20px;
+    }
+
+    .hero_5{
+        position: relative;
+        height: 1000px;
+        top: -1950px;
+        display: grid;
+        justify-content: center;
+    }
+
+    .container_5{
+
+        margin-top: 117px;
+        margin-bottom: 25px;
+        margin-left: 46px;
+        margin-right: 379px;
+    }
+
+    .form{
+        background-color: #000;
+        outline-color: white;
+        color: white;
+        width: 506px;
+        height: 555px;
+        margin-top: 1200px;
+        margin-left: 876px;
+    }
+
+    .p_form{
+        padding: 15px;
+        margin: 28px 104px;
+        width: 297px;
+        height: 47px;
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 26px;
+        text-align: center;
+    }
+
+    .label_form{
+        width: 100px;
+        height: 100px;
+        display: block;
+        margin: 0px 49px;
+    }
+
+    .label_form_1{
+        width: 100px;
+        height: 100px;
+        margin: 0px 49px;
+    }
+
+    .input_line{
+        border: 0;
+        border-bottom: 1px solid white;
+        background-color: rgba(0,0,0,0);
+        outline: 0;
+        font-size: 14px;
+        line-height: 40px;
+        width: 350px;
+    }
+
+    .checkbox_form{
+        margin: 43px 49px;
+    }
+
+    .button_5{
+        background: #E3B873;
+        font-family: "Nunito Sans";
+        font-size: 15px;
+        line-height: 15px;
+        padding: 20px 5px;
+        color: white;
+        border-color: #E3B873;
+        width: 260px;
+    }
+
+    .button_5.r{
+        margin-top: 53px;
+        margin-left: 221px;
+    }
+
+    .section5_background{
+        position: relative;
+        width: 1006px;
+        height: 645px;
+        margin-top: -550px;
+    }
+
+    #circle{
+        display: flex;
+        position: absolute;
+        width: 100px;
+        height: 500px;
+        margin: -600px 0px 0px 235px;
+        list-style: none;
+        flex-direction: column;
+    }
+    .circle {
+        width: 69px;
+        height: 100px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        border-radius: 45px;
+        border: solid 7px;
+        border-color:white;
+        background: #E3B873;
+        margin: 0px 0px 86px -40px;
+    }
+
+    .p_nr{
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 25px;
+        text-align: center;
+        color: #FFFFFF;
+        margin: 15px 10px;
+    }
+
+    .circle_text{
+        display: flex;
+        position: absolute;
+        width: 420px;
+        height: 50px;
+        margin: -582px 0px 0px 334px;
+        list-style: none;
+        flex-direction: column;
+    }
+
+    .p_nr_text{
+        margin: 0px 0px 125px -40px;
+
+    }
+
+    #pig{
+        display: flex;
+        margin-left: 266px;
+        margin-top: -60px;
+    }
+
+    .pig.circle{
+        position: relative;
+        width: 90px;
+        height: 90px;
+        left: 657px;
+        top: 32px;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .pig_text{
+        position: relative;
+        width: 247px;
+        height: 90px;
+        left: 665px;
+        top: 35px;
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 26px;
+        color: #E3B873;
+    }
+
+    .hero_6{
+        position: relative;
+        height: 864px;
+        top: -660px;
+        left: -250px;
+        display: grid;
+        justify-content: center;
+    }
+
+    .section6_background{
+        position: absolute;
+        z-index: -3;
+    }
+
+    .mask.section6_background{
+        position: absolute;
+        z-index: -2;
+    }
+
+    .container_6{
+        margin-bottom: 25px;
+    }
+
+    .h2{
+        position: absolute;
+        width: 411px;
+        height: 66px;
+        padding: 30px;
+        margin-bottom: 137px;
+        padding-left: 110px;
+        padding-top: 115px;
+    }
+
+    .ul_sect6{
+        display: flex;
+        position: absolute;
+        margin-left: 65px;
+        list-style: none;
+        flex-direction: column;
+        color: white;
+        margin-top: 256px;
+    }
+
+    .li_sect6.first{
+        color: #E3B873; 
+        text-decoration: underline;
+    }
+
+    .li_sect6{
+        margin: 12.5px;
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 38px;
+        width: 185px;
+        height: 25px;
+    }
+
+    .photo1{
+        width: 354px;
+        height: 557px;
+        margin-left: 595px;
+        margin-top: -39px;
+    }
+
+    .photo2{
+        position: absolute;
+        width: 354px;
+        height: 349px;
+        margin-left: 595px;
+        margin-top: 35px;
+    }
+
+    .photo3{
+        position: absolute;
+        width: 354px;
+        height: 275px;
+        margin-left: 988px;
+        margin-top: -635px;
+    }
+
+    .photo4{
+        position: absolute;
+        width: 354px;
+        height: 624px;
+        margin-left: 988px;
+        margin-top: -327px;
+    }
+
+    .hero_7{
+        position: relative;
+        height: 864px;
+        top: -557px;
+        display: grid;
+        justify-content: center;
+    }
+
+    .container_7{
+        margin-bottom: 25px;
+        margin-left: 686px;
+    }
+
+    .sect_7_h3{  
+        position: absolute;
+        color: black;
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
+        margin-left: 60px;
+    }
+
+    .vector_3{
+        position: absolute;
+        display: block;
+        justify-content: center;
+        margin-top: 70px;
+        margin-left: 75px;
+    }
+
+    .sect7_p1{
+        position: relative;
+        font-family: "Nunito Sans";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 29px;
+        text-align: center;
+        width: 476px;
+        height: 57px;
+        top: 132px;
+        right: 107px;
+
+    }
+
+    .block_2{
+        position: absolute;
+        display: flex;
+        justify-content: space-between;
+        margin: 195px 0px 0px -500px;
+    }
+    .person_block{
+        width: 415px;
+        height: 428px;
+        margin: 0px 80px 0px 0px;
+    }
+
+    .photo_name{
+        display: flex;
+        justify-content: space-between;
+        margin: 0px 165px 0px 0px;
+
+    }
+
+    .h4_person_text{
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 23px;
+        color: #181818;
+        margin-left: 20px;
+        width: 170px;
+    }
+
+    .photo_elips{
+        border-radius: 65px;
+    }
+
+    .p_person_text{
+        width: 324px;
+        height: 216px;
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 180%;
+        color: #959595;
+    }
+
+    .s_person{
+        display: flex;
+        justify-content: space-around;
+        background-color: #E3B873;
+        width: 260px;
+        height: 50px;
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+
+    .icon_size{
+        width: 32px;
+        height: 31px;
+    }
+
+    .white_line{
+        border: 1px solid rgb(255, 255, 255);
+        height: 55px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .background_img{
+        display: flex;
+        margin-left: -700px;
+        margin-top: 250px;
+    }
+
+    .u1{
+        margin-top: 51px;
+        margin-left: 48px;
+    }
+
+    .input_line.r{
+        width: 823px;
+    }
+
+    .hero_8{
+        display: grid;
+        justify-content: center;
+    }
+
+    .form_2{
+        position: relative;
+        background-color: #000;
+        outline-color: white;
+        color: white;
+        width: 1000px;
+        height: 555px;
+        margin-top: -608px;
+        z-index: 1;
+    }
+
+    .p_form_2{
+        padding: 15px;
+        margin: 28px 330px;
+        width: 297px;
+        height: 47px;
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+        text-transform: uppercase;
+        
+        color: #FFFFFF;
+        text-align: center;
+    }
+
+    .label_form.r{
+        margin-left: 522px;
+        margin-top: -100px;
+    }
+
+    .checkbox_r{
+        display: flex;
+        align-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-top: -5px;
+    }
+
+    .back_0{
+        margin-left: 12px;
+        height: 901px;
+        margin-top: -121px;
+    }
+
+    .back_1{
+        margin-left: -18px;
+        height: 901px;
+        margin-top: -121px;
+    }
+
+    .last_section{
+        display: grid;
+        justify-content: center;
+        position: relative;
+        background-color: rgba(0, 0, 0, 1);
+        margin-top: -320px;
+    }
+
+    .background_photo{
+        height: 1030px;
+        background: linear-gradient(to bottom, #000000, #ffffff);
+        opacity: 0.25;
+    }
+
+    .tenj{
+        position: relative;
+        top: -1035px;
+        height: 1030px;
+    }
+
+    .last_h{
+        position: relative;
+        width: 665px;
+        z-index: 1;
+        text-align: center;
+        padding: 0px;
+        margin-top: -683px;
+        margin-left: 430px;
+    }
+
+    .icon_h{
+        position: relative;
+        display: flex;
+        z-index: 1;
+        justify-content: center;
+    }
+
+    .icon_margin{
+        margin: 5px;
+    }
+
+    .map{
+        position: relative;
+        z-index: 1;
+        left: 285px;
+    }
+
+    footer{
+        background-color: #000;
+        padding: 0 91px;
+        margin: 0 auto;
+        font-size: 11px;
+        line-height: 15px;
+    }
+}
