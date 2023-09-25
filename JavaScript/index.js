@@ -2,6 +2,10 @@ const slideBtns = document.querySelectorAll(".slide_conteiner")
 const slideNames = document.querySelectorAll(".section_2_li_style")
 const slidePhoto = document.querySelectorAll(".eye")
 
+const prev = document.getElementById("leftArrow")
+const next = document.getElementById("rightArrow")
+
+let currentIndex = 0
 
 function changeImage (imageIndex){
     slidePhoto.forEach((photo) => {
@@ -33,9 +37,17 @@ function btnChange(){
             changeImage(index)
         })
     })
+
+    prev.addEventListener("click", ()=>{
+        changeImage(slidePhoto - 1);
+        currentIndex -= 1;
+    })
     
+    prev.addEventListener("click", ()=>{
+        changeImage(currentIndex + 1);
+        currentIndex += 1;
+    })
 }
 
-btnChange(slideNames)
-btnChange(slideBtns)
 
+btnChange()

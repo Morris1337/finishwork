@@ -706,6 +706,8 @@
         margin-left: 620px;
         margin-top: -30px;
         justify-content: flex-start;
+        flex-wrap: nowrap;
+        align-items: center;
     }
 
     .slide_conteiner{
@@ -857,7 +859,7 @@
     .line_front{
         display: flex;
         justify-content: center;
-        margin-top: 170px;
+        margin-top: 40px;
         margin-left: 44px;
     }
 
