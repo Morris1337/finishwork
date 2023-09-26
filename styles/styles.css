@@ -711,12 +711,17 @@
     }
 
     .slide_conteiner{
-        background-color: white;
+        cursor: pointer;
+        background-color: grey;
         display: block;
         width: 10px;
         height: 10px;
         margin: 8px 13px;
         border-radius: 5px;
+    }
+
+    .slide_conteiner.push{
+        background-color: white;
     }
 
     .image_slide_link{
@@ -753,6 +758,10 @@
     .section_2_li_style{
         padding: 0;
         margin-left: 40px;
+    }
+
+    .section_2_li_style:hover{
+        cursor: pointer;
     }
 
     .h3-1{
@@ -1546,3 +1555,9 @@
         line-height: 15px;
     }
 }
+
+.clicked{
+    color: #E3B873;
+    text-decoration: underline;;
+}
+
